@@ -16,7 +16,7 @@ const App = () => {
     
     <>
     
-      <Toaster />
+      <Toaster /> 
       {!isAdminRoute && <Navbar/>}
       <Routes>
         <Route path='/' element={<Home/>}/>
