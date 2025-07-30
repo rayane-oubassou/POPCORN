@@ -13,26 +13,45 @@ export const assets = {
     screenImage,
     profile
 }
-
 export const dummyTrailers = [
     {
-        image: "https://img.youtube.com/vi/WpW36ldAqnM/maxresdefault.jpg",
-        videoUrl: 'https://www.youtube.com/watch?v=WpW36ldAqnM'
+      image: "https://img.youtube.com/vi/uYPbbksJxIg/hqdefault.jpg",
+      videoUrl: "https://www.youtube.com/watch?v=uYPbbksJxIg", 
     },
     {
-        image: "https://img.youtube.com/vi/-sAOWhvheK8/maxresdefault.jpg",
-        videoUrl: 'https://www.youtube.com/watch?v=-sAOWhvheK8'
+      image: "https://img.youtube.com/vi/xy8aJw1vYHo/hqdefault.jpg",
+      videoUrl: "https://www.youtube.com/watch?v=xy8aJw1vYHo", 
     },
     {
-        image: "https://img.youtube.com/vi/1pHDWnXmK7Y/maxresdefault.jpg",
-        videoUrl: 'https://www.youtube.com/watch?v=1pHDWnXmK7Y'
+      image: "https://i.ytimg.com/vi/ue80QwXMRHg/maxresdefault.jpg",
+      videoUrl: "https://www.youtube.com/watch?v=v7MGUNV8MxU", 
     },
     {
-        image: "https://img.youtube.com/vi/umiKiW4En9g/maxresdefault.jpg",
-        videoUrl: 'https://www.youtube.com/watch?v=umiKiW4En9g'
+      image: "https://i.ytimg.com/vi/w3ugHP-yZXw/maxresdefault.jpg",
+      videoUrl: "https://www.youtube.com/watch?v=ahZFCF--uRY",
     },
-]
-
+    {
+      image: "https://i.ytimg.com/vi/pBk4NYhWNMM/maxresdefault.jpg",
+      videoUrl: "https://www.youtube.com/watch?v=hvL1339luv0", 
+    }, 
+  {
+    image: "https://img.youtube.com/vi/uYPbbksJxIg/maxresdefault.jpg",
+    videoUrl: "https://www.youtube.com/watch?v=uYPbbksJxIg", // Oppenheimer
+  },
+  {
+    image: "https://img.youtube.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
+    videoUrl: "https://www.youtube.com/watch?v=EXeTwQWrcwY", // The Dark Knight
+  },
+  {
+    image: "https://img.youtube.com/vi/8ugaeA-nMTc/maxresdefault.jpg",
+    videoUrl: "https://www.youtube.com/watch?v=8ugaeA-nMTc", // Interstellar
+  },
+  {
+    image: "https://img.youtube.com/vi/tgbNymZ7vqY/maxresdefault.jpg",
+    videoUrl: "https://www.youtube.com/watch?v=tgbNymZ7vqY", // Minions Banana Song (test embed)
+  },
+  ];
+  
 const dummyCastsData = [
     { "name": "Milla Jovovich", "profile_path": "https://image.tmdb.org/t/p/original/usWnHCzbADijULREZYSJ0qfM00y.jpg", },
     { "name": "Dave Bautista", "profile_path": "https://image.tmdb.org/t/p/original/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg", },
