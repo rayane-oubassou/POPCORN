@@ -32,12 +32,8 @@ export const dummyTrailers = [
     },
     {
       image: "https://i.ytimg.com/vi/pBk4NYhWNMM/maxresdefault.jpg",
-      videoUrl: "https://www.youtube.com/watch?v=hvL1339luv0", 
-    }, 
-  {
-    image: "https://img.youtube.com/vi/uYPbbksJxIg/maxresdefault.jpg",
-    videoUrl: "https://www.youtube.com/watch?v=uYPbbksJxIg", // Oppenheimer
-  },
+      videoUrl: "https://www.youtube.com/watch?v=pBk4NYhWNMM&pp=0gcJCfwAo7VqN5tD", 
+    },
   {
     image: "https://img.youtube.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
     videoUrl: "https://www.youtube.com/watch?v=EXeTwQWrcwY", // The Dark Knight
@@ -47,8 +43,8 @@ export const dummyTrailers = [
     videoUrl: "https://www.youtube.com/watch?v=8ugaeA-nMTc", // Interstellar
   },
   {
-    image: "https://img.youtube.com/vi/tgbNymZ7vqY/maxresdefault.jpg",
-    videoUrl: "https://www.youtube.com/watch?v=tgbNymZ7vqY", // Minions Banana Song (test embed)
+    image: "https://i.ytimg.com/vi/AzMo-FgRp64/maxresdefault.jpg",
+    videoUrl: "https://www.youtube.com/watch?v=18QQWa5MEcs", // Minions Banana Song (test embed)
   },
   ];
   
