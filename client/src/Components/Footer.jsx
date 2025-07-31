@@ -15,8 +15,8 @@ const Footer = () => {
                     curating your favorites, Popcorn makes every moment at the movies unforgettable.
                     </p>
                     <div className="flex items-center gap-2 mt-4">
-                        <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/refs/heads/main/assets/appDownload/googlePlayBtnBlack.svg" alt="google play" className="h-10 w-auto border border-white rounded" />
-                        <img src="https://raw.githubusercontent.com/prebuiltui/prebuiltui/refs/heads/main/assets/appDownload/appleStoreBtnBlack.svg" alt="app store" className="h-10 w-auto border border-white rounded" />
+                        <img src={assets.googlePlay} className="h-9 w-auto " />
+                        <img src={assets.appStore} alt="app store" className="h-9 w-auto " />
                     </div>
                 </div>
                 <div className="flex-1 flex items-start md:justify-end gap-20 md:gap-40">
@@ -39,7 +39,7 @@ const Footer = () => {
                 </div>
             </div>
             <p className="pt-4 text-center text-sm pb-5">
-                Copyright {new Date().getFullYear()} © <a href="https://prebuiltui.com">POPCORN</a>. All Right Reserved.
+                Copyright {new Date().getFullYear()} © <a href="https://www.linkedin.com/in/rayane-oubassou-9044b9275/">Rayane Oubassou</a>. All Right Reserved.
             </p>
         </footer>
       </div>
